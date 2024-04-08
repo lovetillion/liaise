@@ -1,4 +1,4 @@
-![LIAISE Cloud](https://lovetillion.org/i/liaise.png)
+![LIAISE Cloud](https://lovetillion.org/i/liaise.png?cb=23452345)
 # LIAISE
 Cloud for distributed GPU farming
 
