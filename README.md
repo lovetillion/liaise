@@ -1,4 +1,5 @@
-# 🤔LIAISE
+![vega](https://lovetillion.org/i/vega.png)
+# LIAISE
 Cloud for distributed GPU farming
 
 ## Goals
