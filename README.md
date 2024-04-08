@@ -1,4 +1,4 @@
-# LIAISE
+# 🤔LIAISE
 Cloud for distributed GPU farming
 
 ## Goals
