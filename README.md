@@ -1,4 +1,4 @@
-![vega](https://lovetillion.org/i/vega.png)
+![vega](https://lovetillion.org/i/liaise.png)
 # LIAISE
 Cloud for distributed GPU farming
 
